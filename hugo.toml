@@ -1,0 +1,40 @@
+baseURL = "https://pujijayanto.com/"
+languageCode = "en-us"
+title = "Dedy Puji"
+theme = "not-much"
+copyright = "© {year}"
+
+[params]
+theme = "light"
+palette = "dracula"
+showThemeNotice = true
+
+# Navigation
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "About"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "work"
+    name = "work"
+    title = "work"
+    url = "/work"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "link"
+    name = "link"
+    title = "link"
+    url = "/link"
+    weight = 4
