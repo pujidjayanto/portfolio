@@ -18,7 +18,7 @@ Here are the programming languages, frameworks, and tools I have experience with
 
 - **Databases:** PostgreSQL, MySQL, Redis, SQLite, ETCD, MongoDB
 
-- **Tools:** Git, Docker, Kubernetes, Jira, Notion, Retool, Metabase, AI Chat based tool (ChatGPT, Claude), Google BigQuery, Asana
+- **Tools:** Git, Docker, Kubernetes, Jira, Notion, Retool, Metabase, Github Workflows, Datadog, ArgoCD, Keycloack, Terraform, AI Chat based tool (ChatGPT, Claude), Google BigQuery, Asana
 
 I have also studied the following programming languages, though I haven't used them in professional settings:
 
