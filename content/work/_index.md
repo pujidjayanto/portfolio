@@ -11,7 +11,7 @@ draft = false
 Easily calculate and distribute verses among your group, ensuring you can complete reading Quran together.
 
 - **Tech Stack:** HTML, CSS, Javascript, Vue, Bulma
-- **GitHub:** [View on GitHub](https://github.com/pujijayanto/bagijuz)
+- **GitHub:** [View on GitHub](https://github.com/pujidjayanto/bagijuz)
 - **Live Site:** [Visit Site](https://bagijuz.web.id/)
 
 #### Shrink
@@ -19,5 +19,5 @@ Easily calculate and distribute verses among your group, ensuring you can comple
 An URL shortener I build along reading [Let's Go](https://lets-go.alexedwards.net/) book
 
 - **Tech Stack:** Golang, PostgreSQL, CI/CD
-- **GitHub:** [View on GitHub](https://github.com/pujijayanto/shrink)
+- **GitHub:** [View on GitHub](https://github.com/pujidjayanto/shrink)
 

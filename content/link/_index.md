@@ -6,7 +6,7 @@ draft = false
 
 ### Links
 
-- [Github](https://github.com/pujijayanto/)
-- [Medium](https://medium.com/@pujijayanto)
+- [Github](https://github.com/pujidjayanto/)
+- [Medium](https://medium.com/@pujidjayanto)
 - [Twitter](https://x.com/pujidjayanto)
 
